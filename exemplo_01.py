@@ -1,3 +1,7 @@
+"""
+App visualizador de arquivos (.jpg, .jpeg, .png, .py, .js, .wav, .csv, .json). 
+"""
+
 import streamlit as st
 from  pandas import read_csv
 
